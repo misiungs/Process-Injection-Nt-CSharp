@@ -1,0 +1,7 @@
+C:\Users\misiu\Documents\GitHub\Process-Injection-Nt-CSharp\Process-Injection-Nt-CSharp\bin\Release\Process-Injection-Nt-CSharp.exe.config
+C:\Users\misiu\Documents\GitHub\Process-Injection-Nt-CSharp\Process-Injection-Nt-CSharp\bin\Release\Process-Injection-Nt-CSharp.exe
+C:\Users\misiu\Documents\GitHub\Process-Injection-Nt-CSharp\Process-Injection-Nt-CSharp\bin\Release\Process-Injection-Nt-CSharp.pdb
+C:\Users\misiu\Documents\GitHub\Process-Injection-Nt-CSharp\Process-Injection-Nt-CSharp\obj\Release\Process-Injection-Nt-CSharp.csproj.AssemblyReference.cache
+C:\Users\misiu\Documents\GitHub\Process-Injection-Nt-CSharp\Process-Injection-Nt-CSharp\obj\Release\Process-Injection-Nt-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\misiu\Documents\GitHub\Process-Injection-Nt-CSharp\Process-Injection-Nt-CSharp\obj\Release\Process-Injection-Nt-CSharp.exe
+C:\Users\misiu\Documents\GitHub\Process-Injection-Nt-CSharp\Process-Injection-Nt-CSharp\obj\Release\Process-Injection-Nt-CSharp.pdb
